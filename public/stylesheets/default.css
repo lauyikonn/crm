@@ -22,7 +22,7 @@ background: -ms-linear-gradient(top,  #d67c7d 0%,#eee 0%,#ffffff 50%); /* IE10+ 
 background: linear-gradient(to bottom,  #d67c7d 0%,#eee 0%,#ffffff 50%); /* W3C */
 }
 #submenu a{display:block;}
-#the_list{float:left; width:79.8%; height:100%;background: #eee;}
+#the_list{float:left; width:79.8%; height:100%;background: #eee; overflow: scroll; padding-bottom:50px;}
 #footer{position:fixed; background:#fff; bottom: 0; padding:10px; border-top: 1px solid #999; width:100%;}
 /*--------------------------------------------------------------------------------------------------
  	 DEFAULT PAGE DEFINITIONS
